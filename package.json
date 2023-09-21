@@ -1,0 +1,21 @@
+{
+  "name": "nft-metadata-gen",
+  "version": "1.0.0",
+  "description": "For NFT MetaData",
+  "exports": "./src/index.ts",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "bun src/index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
+    "random": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.1",
+    "typescript": "^5.2.2"
+  }
+}
