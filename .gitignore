@@ -6,3 +6,6 @@ node_modules
 
 # compile
 dist/*
+
+# output dir
+genericJson/*
