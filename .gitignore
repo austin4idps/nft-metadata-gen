@@ -9,3 +9,6 @@ dist/*
 
 # output dir
 genericJson/*
+
+# env
+.env
