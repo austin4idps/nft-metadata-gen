@@ -9,7 +9,7 @@ curl -fsSL https://bun.sh/install | bash
 
 2. Install node depens
 ```bash 
-yarn
+bun i
 ```
 3. Filling `.env`, Detail is down below section
 
@@ -47,8 +47,12 @@ ATTRIBUTE_VALUE_COUNT1="32,22,22,26"
 
 
 ## Contributing and Improve
-Please read through `commit guidelines` of [angular's guidelines](https://github.com/angular/angular/blob/main/CONTRIBUTING.md).
-Then open a pr on this repo.
+Raise an issue:  
+- Open a issue on this repo.  
+
+Contribute:
+- Please read through `commit guidelines` of [angular's guidelines](https://github.com/angular/angular/blob/main/CONTRIBUTING.md).
+then open a pr on this repo.
 
 
 ## Author
